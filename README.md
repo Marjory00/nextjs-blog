@@ -1,7 +1,7 @@
 
 # Next.js Web Application
 
-## Blog Website 
+## Blog Website App
 
 ### About Next.js
 
@@ -16,5 +16,14 @@ Demo App: https://nextjs-blog-five-beryl-15.vercel.app
 ![App Screenshot](https://i.postimg.cc/6qB5FNcx/nextjs-blog1342.png)
 
 
-* Learn more:
+## Contains:
+* Navigate Between Pages
+* Assets, Metadata, and CSS
+* Pre-rendering and Data Fetching
+* Dynamic Routes
+* API Routes
+* Deployment
+
+
+### Learn more:
 Documentation [Next.js](https://nextjs.org/learn/foundations/about-nextjs/what-is-nextjs).
